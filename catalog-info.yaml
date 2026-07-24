@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: material-symbols-react
+  title: material-symbols-react
+  description: "To install dependencies:"
+  annotations:
+    github.com/project-slug: ITDeptUtahCountyGovernment/material-symbols-react
+    backstage.io/source-location: url:https://github.com/ITDeptUtahCountyGovernment/material-symbols-react/
+    itdept.dev/language: TypeScript
+    itdept.dev/lines-of-code: "1"
+    itdept.dev/tech-stack: bun
+    itdept.dev/correct-naming: "false"
+    itdept.dev/password-mgmt: none
+    itdept.dev/created-at: 2025-12-31T00:37:43Z
+    itdept.dev/catalog-last-updated: 2026-07-24T00:47:52.541Z
+    itdept.dev/linting-enforced: "false"
+    itdept.dev/ci-tested: "false"
+spec:
+  type: library
+  owner: group:default/gold-team
+  lifecycle: production

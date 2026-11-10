@@ -12,10 +12,12 @@ metadata:
     itdept.dev/tech-stack: bun
     itdept.dev/correct-naming: "false"
     itdept.dev/password-mgmt: none
+    itdept.dev/github-repo: "true"
     itdept.dev/created-at: 2025-12-31T00:37:43Z
-    itdept.dev/catalog-last-updated: 2026-07-24T00:47:52.541Z
+    itdept.dev/catalog-last-updated: 2026-09-24T02:12:26.858Z
     itdept.dev/linting-enforced: "false"
     itdept.dev/ci-tested: "false"
+    itdept.dev/rad-workflow-adopted: "false"
     itdept.dev/REMOVE-THIS-ANNOTATION: "true"
 spec:
   type: library
